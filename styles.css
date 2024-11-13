@@ -1,0 +1,11 @@
+h1{
+    color: rgb(166, 255, 0);
+    font-size: 30px;
+}
+p{
+    color: rgb(0, 255, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    border: 2px solid rgb(238, 255, 0);
+}
